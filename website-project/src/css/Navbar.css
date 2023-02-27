@@ -1,0 +1,12 @@
+.nav-link{
+    font-size: 24px;
+    
+  }
+.active{
+  color: crimson !important;
+}
+
+.nav-item{
+  margin-right: 52px;
+}
+ 
