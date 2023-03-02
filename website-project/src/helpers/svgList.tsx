@@ -9,7 +9,6 @@ import Instagram from '../svg/instagram.svg'
 
 let svgs:any = [];
 
-
 svgs["Airplane"] = Airplane;
 svgs["Facebook"] = Facebook;
 svgs["Twitter"] = Twitter;
@@ -17,7 +16,6 @@ svgs["Phone"] = Phone;
 svgs["Whatsapp"] = Whatsapp;
 svgs["Youtube"] = Youtube;
 svgs["Instagram"] = Instagram;
-
 
 export default function svgList() {
   return svgs

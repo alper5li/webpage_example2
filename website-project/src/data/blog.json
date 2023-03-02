@@ -1,130 +1,180 @@
 [
     {
       "id": "1",
-      "name": "John",
+      "name": "Ayşe",
       "age": "30",
-      "image": "/images/logo.png",
-      "city": "New York",
+      "image": "/images/ayse.jpg",
+      "city": "Kayseri",
       "time": "11:23",
-      "date": "21.11.2022"
+      "date": "21.11.2022",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070001"
     },
     {
       "id": "2",
-      "name": "Peter",
+      "name": "Fatma",
       "age": "40",
-      "image": "/images/logo192.png",
-      "city": "Boston",
+      "image": "/images/fatma.jpg",
+      "city": "Muş",
       "time": "15:18",
-      "date": "06.03.2020"
+      "date": "06.03.2020",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070002"
     },
     {
       "id": "3",
-      "name": "Sally",
+      "name": "Hayriye",
       "age": "50",
-      "image": "/images/logo512.png",
-      "city": "Los Angeles",
+      "image": "/images/hayriye.jpg",
+      "city": "Hakkari",
       "time": "23:48",
-      "date": "17.06.2023"
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070003"
     }
     ,
     {
-      "id": "3",
-      "name": "Sally",
+      "id": "4",
+      "name": "Selin",
       "age": "50",
-      "image": "/images/logo512.png",
-      "city": "Los Angeles",
+      "image": "/images/selin.jpg",
+      "city": "Malatya",
       "time": "23:48",
-      "date": "17.06.2023"
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070004"
     }
     ,
     {
-      "id": "3",
-      "name": "Sally",
+      "id": "5",
+      "name": "Mehmet",
       "age": "50",
-      "image": "/images/logo512.png",
-      "city": "Los Angeles",
+      "image": "/images/mehmet.jpg",
+      "city": "Tekirdağ",
       "time": "23:48",
-      "date": "17.06.2023"
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070005"
     }
     ,
     {
-      "id": "3",
-      "name": "Sally",
+      "id": "6",
+      "name": "Pelin",
       "age": "50",
-      "image": "/images/logo512.png",
-      "city": "Los Angeles",
+      "image": "/images/pelin.jpg",
+      "city": "Çorum",
       "time": "23:48",
-      "date": "17.06.2023"
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070006"
     }
     ,
     {
-      "id": "3",
-      "name": "Sally",
+      "id": "7",
+      "name": "Mahmut",
       "age": "50",
-      "image": "/images/logo512.png",
-      "city": "Los Angeles",
+      "image": "/images/mahmut.jpg",
+      "city": "Konya",
       "time": "23:48",
-      "date": "17.06.2023"
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070007"
     }
     ,
     {
-      "id": "3",
-      "name": "Sally",
+      "id": "8",
+      "name": "Simge",
       "age": "50",
-      "image": "/images/logo512.png",
-      "city": "Los Angeles",
+      "image": "/images/simge.jpg",
+      "city": "İstanbul",
       "time": "23:48",
-      "date": "17.06.2023"
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070008"
     },
     {
-      "id": "3",
-      "name": "Sally",
+      "id": "9",
+      "name": "Sude",
       "age": "50",
-      "image": "/images/logo512.png",
-      "city": "Los Angeles",
+      "image": "/images/sude.jpeg",
+      "city": "Ordu",
       "time": "23:48",
-      "date": "17.06.2023"
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070009"
     }
     ,
     {
-      "id": "3",
-      "name": "Sally",
+      "id": "10",
+      "name": "Alfred",
       "age": "50",
-      "image": "/images/logo512.png",
-      "city": "Los Angeles",
+      "image": "/images/alfred.webp",
+      "city": "New York",
       "time": "23:48",
-      "date": "17.06.2023"
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070010"
     }
     ,
     {
-      "id": "3",
-      "name": "Sally",
+      "id": "11",
+      "name": "Canan",
       "age": "50",
-      "image": "/images/logo512.png",
-      "city": "Los Angeles",
+      "image": "/images/canan.jpeg",
+      "city": "Trabzon",
       "time": "23:48",
-      "date": "17.06.2023"
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070011"
     }
     ,
     {
-      "id": "3",
-      "name": "Sally",
+      "id": "12",
+      "name": "Duygu",
       "age": "50",
-      "image": "/images/logo512.png",
-      "city": "Los Angeles",
+      "image": "/images/duygu.jpg",
+      "city": "Erzurum",
       "time": "23:48",
-      "date": "17.06.2023"
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070012"
     }
     ,
     {
-      "id": "3",
-      "name": "Sally",
+      "id": "13",
+      "name": "İrina",
       "age": "50",
-      "image": "/images/logo512.png",
+      "image": "/images/irina.jpg",
       "city": "Los Angeles",
       "time": "23:48",
-      "date": "17.06.2023"
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070013"
     }
+    ,
+    {
+      "id": "14",
+      "name": "Merve",
+      "age": "50",
+      "image": "/images/merve.jpg",
+      "city": "Adana",
+      "time": "23:48",
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070014"
+    },
+    {
+      "id": "15",
+      "name": "Alfred",
+      "age": "50",
+      "image": "/images/alfred2.jpeg",
+      "city": "New York",
+      "time": "23:48",
+      "date": "17.06.2023",
+      "information": "Fusce nulla tortor, malesuada at mauris a, volutpat porta tellus. In dignissim vitae nunc vel pulvinar. Phasellus auctor erat ut tempus tempus. Sed id nunc sit amet metus semper congue. Praesent eu arcu elementum, malesuada mi in, ornare ex. Integer congue dapibus nibh. Ut a tincidunt arcu. Sed purus libero. ",
+      "uniqueID": "201924070015"
+    }
+
 
   ]
   

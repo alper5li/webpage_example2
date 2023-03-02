@@ -1,7 +1,23 @@
 .text-time{
     color: rgb(255, 6, 6);
+    font-size: large;
 }
 
 .text-date{
-    color: whitesmoke;
+    color: rgb(0, 124, 10);
+    font-size: large;
+}
+
+.maxOptimization{
+    max-width: 250px;
+    max-height: 250px;
+}
+
+.sehir{
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+
+.backgr{
+    background-color: rgb(75, 74, 74);
 }
